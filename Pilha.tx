@@ -1,0 +1,54 @@
+Pilha -> inglês stack
+Em pilha temos outro conceito e chamado.
+FILO = Fist in / Fist Out
+     Ou conhecido como 
+ LIFO = Last in / Fist Out
+------
+|8| -> Toop
+------
+|7|
+------
+|6|
+------
+|5|
+------
+|4|
+------
+|3|
+------
+|2|
+------
+|1|
+------
+ ^
+Vou Inserir o meu primeiro elemento na Pilha
+--------------------------------------------
+* Os dados/ são inseridos sempre no topo, ou seja,
+- sempre que um novo elemento é inserido ele ocupa
+- o topo da pilha.
+
+* Só temo acesso ao elemento que estão no topo.
+OBS:Não podemos ter acesso em outro elementos da pilha.
+Exemplo: |1, 2, 3, 4, 5, 6| -> só conseguimos ter acesso,
+se agente excluir um de cada vez.
+--------------------------------------------
+* O processo de inserir um elemento é chamado de PUSH,
+- Lembrando que a inserção sempre é no toop então  quando
+- a gente executar um push vai estar colocando o próximo 
+- elemento. Se eu der um push agora vou colocar o elemento
+- lá em cima |8|.
+
+* O processo de remover um elemento é chamado de pop, a gente
+- só remove o elemento que está no topo a gente não consegue
+- remover nenhum outro elemento.
+OBS: Se a gente quesir remover o 2 temos que remover o |8, 7, 6,
+- 5, 4, 3| para então remover o 2.
+--------------------------------------------
+* 	Aplicação da PILHA.
+- São várias se a gente for pensar olha só um exemplo.
+OBS: o que acontece se eu digitar aqui control + z.
+- Control Z mais nada que é apagar tudo que digitou até agora. 
+**Control z -> Remove o último comando que eu fiz o too veio
+- pra cá.
+
+
